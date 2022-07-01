@@ -4,6 +4,6 @@ import { info } from '../controllers/infoController';
 const router = express.Router();
 
 // Login
-router.post('/info', info);
+router.get('/', info);
 
 export default router;

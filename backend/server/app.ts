@@ -1,11 +1,10 @@
 /* eslint-disable no-console */
 import express from 'express';
 import cors from 'cors';
-// import session from './routes/session';
-// import register from './routes/register';
+
 import info from './routes/info';
 
-// require('dotenv').config();
+require('dotenv').config();
 
 const app = express();
 
