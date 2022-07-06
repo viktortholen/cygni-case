@@ -42,6 +42,6 @@ npm run dev
 ```
 
 The frontend and backend should now be up and running.
-Backend runs by default at http://localhost:4000/
+Backend runs by default at http://localhost:5000/
 
 Frontend runs by default at http://localhost:3000/
